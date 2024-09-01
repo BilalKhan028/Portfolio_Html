@@ -1,0 +1,55 @@
+body{
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+.head1{
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+       
+}
+
+.nav1 a{
+    color: white;
+    margin: 0 1rem;
+}
+
+.img1 img{
+    margin-left:40%;
+    border-radius: 50%;
+    width: 18em;
+}
+.img1{
+    padding: 2rem;
+}
+
+.container1{
+    border: 1px solid black;
+    margin-left: 17em;
+    width: 62% ;
+}
+.container1 h2{
+    padding: 0 1em;
+}
+.container1 p{
+    padding: 0 1em;
+}
+.container2{
+    margin-top: 1em;
+}
+.coverimg img{
+    width: 100%;
+    height: 20em;
+}
+
+.side1{
+    width: 49%;
+    height: 66em;
+}
+.side2{
+    width: 50%;
+}
+
+
